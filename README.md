@@ -8,7 +8,7 @@ Services
 | Download | Service for downloading videos (Android only) | CPS |
 | EtpAccount | Service for getting information about your account | CR |
 | EtpAccountAuth | Service for authenticating yourself | CR |
-| [EtpContent](#/Services/EtpContent/README.md) | Service for getting information about content | CR |
+| [EtpContent](/Services/EtpContent/README.md) | Service for getting information about content | CR |
 | EtpContentReviews | Service for getting reviews for content | CR |
 | EtpIndex | N/A | CR |
 | ExternalPartners | Service for external partners | CR |
