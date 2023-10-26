@@ -1,3 +1,10 @@
+Information
+============
+This bare-boned project is an attempt to document Crunchyroll's API.
+<p>
+If you know of an endpoint that isn't documented here please create a pull request pertaining to the endpoint.
+</p>
+
 Services
 ============
 
@@ -5,7 +12,7 @@ Services
 | ----- | ----- | ----- |
 | ConfigDelta | N/A | CR |
 | [DigitalAsset](/Services/DigitalAsset/README.md) | Service for getting assets like avatars | CR |
-| [Download](/Services/Download/README.md) | Service for downloading videos (Android only) | CPS |
+| [Download](/Services/Download/README.md) | Service for downloading videos | CPS |
 | [EtpAccount](/Services/EtpAccount/README.md) | Service for getting information about your account | CR |
 | [EtpAccountAuth](/Services/EtpAccountAuth/README.md) | Service for authenticating yourself | CR |
 | [EtpContent](/Services/EtpContent/README.md) | Service for getting information about content | CR |
