@@ -7,7 +7,7 @@ Services
 | DigitalAsset | Service for getting assets like avatars | CR |
 | Download | Service for downloading videos (Android only) | CPS |
 | EtpAccount | Service for getting information about your account | CR |
-| EtpAccountAuth | Service for authenticating yourself | CR |
+| [EtpAccountAuth](/Services/EtpAccountAuth.md) | Service for authenticating yourself | CR |
 | [EtpContent](/Services/EtpContent/README.md) | Service for getting information about content | CR |
 | EtpContentReviews | Service for getting reviews for content | CR |
 | EtpIndex | N/A | CR |
