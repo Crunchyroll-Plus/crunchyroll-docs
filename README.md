@@ -2,7 +2,7 @@ Information
 ============
 This bare-boned project is an attempt to document Crunchyroll's API.
 <p>
-If you know of an endpoint that isn't documented here please create a pull request pertaining to the endpoint.
+If you know of an endpoint that isn't documented here or if an endpoint is documented wrong please create a pull request pertaining to the endpoint.
 </p>
 
 Services
