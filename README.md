@@ -25,7 +25,7 @@ Services
 Domains
 ============
 
-CR and Beta should be used the same way. 
+CR and Beta should be treated as the same Url.
 
 * CR: `https://wwww.crunchyroll.com`
 * Beta: `https://beta-api.crunchyroll.com`
