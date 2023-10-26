@@ -3,7 +3,7 @@ Services
 
 | Name | Description | Domain |
 | ----- | ----- | ----- |
-| ConfigDelta | N/A | N/A |
+| ConfigDelta | N/A | CR |
 | DigitalAsset | Service for getting assets like avatars | CR |
 | Download | Service for downloading videos (Android only) | CPS |
 | EtpAccount | Service for getting information about your account | CR |
@@ -22,10 +22,10 @@ Services
 | ThirdPartyOauth | Service for editing third party apps. | CR |
 | Translation | Service for translations | Static |
 
-Domains
+Base Domains
 ============
 
-CR and Beta should be treated as the same Url.
+CR and Beta should be used the same way. 
 
 * CR: `https://wwww.crunchyroll.com`
 * Beta: `https://beta-api.crunchyroll.com`
