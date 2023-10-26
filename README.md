@@ -5,6 +5,8 @@ This bare-boned project is an attempt to document Crunchyroll's API.
 If you know of an endpoint that isn't documented here or if an endpoint is documented wrong please create a pull request pertaining to the endpoint.
 </p>
 
+* All of the endpoints come from the Crunchyroll APK version "3.41.1"
+
 Services
 ============
 
