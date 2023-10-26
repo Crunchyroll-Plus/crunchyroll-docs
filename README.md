@@ -1,4 +1,4 @@
-Crunchyroll Services
+Services
 ============
 
 | Name | Description | Domain |
@@ -22,7 +22,7 @@ Crunchyroll Services
 | ThirdPartyOauth | Service for editing third party apps. | CR |
 | Translation | Service for translations | Static |
 
-Endpoint Domains
+Domains
 ============
 
 CR and Beta should be used the same way. 
