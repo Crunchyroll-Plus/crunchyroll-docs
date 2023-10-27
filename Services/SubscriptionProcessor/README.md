@@ -3,4 +3,7 @@ SubscriptionProcessor
 * Base URL: `https://www.crunchyroll.com/`
 * Endpoints: 
     * **GET**
-       * [getSkipEvents](./GET/getSkipEvents.md)
+       * [getProducts](./GET/getProducts.md)
+       * [getUserBenefits](./GET/getUserBenefits.md)
+       * [getUserSubscription](./GET/getUserSubscription.md)
+       * [getUserThirdPartySubscription](./GET/getUserThirdPartySubscription.md)
