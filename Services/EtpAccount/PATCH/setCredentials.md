@@ -4,7 +4,7 @@ setCredentials
 #### Change account credentials.
 
 ```http
-PATCH /accounts/v1/device
+PATCH /accounts/v1/credentials
 
 # Request Headers
 Content-Type: application/json
