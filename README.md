@@ -19,8 +19,8 @@ Services
 | [Download](/Services/Download/README.md) | Service for downloading videos | CPS |
 | [EtpAccount](/Services/EtpAccount/README.md) | Service for getting information about your account | CR |
 | [EtpAccountAuth](/Services/EtpAccountAuth/README.md) | Service for authenticating yourself | CR |
-| [EtpContent](/Services/EtpContent/README.md) | Service for getting information about content | CR |
-| [EtpContentReviews](/Services/EtpContentReviews/README.md) | Service for getting reviews for content | CR |
+| [EtpContent](/Services/EtpContent/README.md) | Service for mananging content | CR |
+| [EtpContentReviews](/Services/EtpContentReviews/README.md) | Service for managing reviews for content | CR |
 | [EtpIndex](/Services/EtpIndex/README.md) | N/A | CR |
 | [ExternalPartners](/Services/ExternalPartners/README.md) | Service for external partners | CR |
 | [FunAccountAuth](/Services/FunAccountAuth/README.md) | Service for authenticating yourself with a funimation account. | CR |
