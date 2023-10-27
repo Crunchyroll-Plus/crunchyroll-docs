@@ -7,7 +7,6 @@ getDownloadToken
 GET /v1/${content_id}/android/phone/download
 
 # Request Headers
-Content-Type: application/json
 Authorization: Bearer ${TOKEN}
 ```
 
