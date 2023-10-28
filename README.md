@@ -42,6 +42,6 @@ CR and Beta should be used the same way.
 * CR: `https://wwww.crunchyroll.com`
 * Beta: `https://beta-api.crunchyroll.com`
 * Static: `https://static.crunchyroll.com`
-* PL: `https://static.crunchyroll.com`
+* PL: `https://pl.crunchyroll.com`
 * EEC: `https://eec.crunchyroll.com`
 * CPS: `https://cr-play-service.prd.crunchyrollsvc.com`
