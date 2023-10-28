@@ -8,7 +8,8 @@ POST /accounts/v1/phone/verify
 
 # Request Headers
 Content-Type: application/json
-Authorization: Bearer ${TOKEN}
+# I'm quite unsure which one to use so try Basic then Bearer
+Authorization: Basic ${CLIENT_ID}
 
 # Request Body
 {
