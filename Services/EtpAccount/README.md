@@ -15,6 +15,7 @@ EtpAccount
         * [resetPassword](./POST/resetPassword.md)
         * [sendVerificationEmail](./POST/sendVerificationEmail.md)
         * [setEmail](./POST/setEmail.md)
+        * [deactivateDevice](./POST/deactivateDevice.md)
     * **PATCH**
         * [setCredentials](./PATCH/setCredentials.md)
         * [setProfile](./PATCH/setProfile.md)
