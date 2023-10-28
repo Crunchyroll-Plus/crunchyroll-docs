@@ -10,5 +10,5 @@ POST /auth/v1/revoke
 Authorization: Bearer ${KEY}
 
 # Request Body
-token=${TOKEN}
+"token=${TOKEN}"
 ```
