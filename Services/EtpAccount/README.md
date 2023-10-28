@@ -18,3 +18,4 @@ EtpAccount
     * **PATCH**
         * [setCredentials](./PATCH/setCredentials.md)
         * [setProfile](./PATCH/setProfile.md)
+        * [updateMarketingNotificationSettings](./PATCH/updateMarketingNotificationSettings.md)
