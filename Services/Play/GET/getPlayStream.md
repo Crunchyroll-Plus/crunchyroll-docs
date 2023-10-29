@@ -4,7 +4,7 @@ getPlayStream
 #### Get stream.
 
 ```http
-GET /v1/{contentId}/android/phone/play
+GET /v1/${contentId}/${android,web}/${phone,firefox,chrome}/play
 
 # Request Headers
 Authorization: Bearer ${TOKEN}
