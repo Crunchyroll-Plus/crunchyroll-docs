@@ -4,3 +4,4 @@ DigitalAsset
 * Endpoints: 
     * **GET**
         * [getAvatars](./GET/getAvatars.md)
+        * [getWallpapers](./GET/getWallpapers.md)
