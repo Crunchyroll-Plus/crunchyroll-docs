@@ -31,7 +31,7 @@ Services
 | [SkipEvents](/Services/SkipEvents/README.md) | Service for getting skip events for a video | Static |
 | [SubscriptionProcessor](/Services/SubscriptionProcessor/README.md) | Service for getting information on your subscriptions. | CR |
 | [Talkbox](/Services/Talkbox/README.md) | Service for getting comments. | CR |
-| [ThirdPartyOauth](/Services/ThirdParthOauth/README.md) | Service for editing third party apps. | CR |
+| [ThirdPartyOauth](/Services/ThirdPartyOauth/README.md) | Service for editing third party apps. | CR |
 | Translation | Service for translations | Static |
 
 Base Domains
