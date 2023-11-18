@@ -1,7 +1,7 @@
 setProfile
 ===========
 
-#### Change profile settings.
+#### Change profile settings, I don't remember testing this so the request body may be somewhat wrong.
 
 ```http
 PATCH /accounts/v1/me/multiprofile/{profile_uuid}
