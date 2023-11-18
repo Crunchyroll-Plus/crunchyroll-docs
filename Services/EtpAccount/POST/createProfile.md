@@ -12,8 +12,8 @@ Content-Type: application/json
 
 # Request Body
 {
-  "username": "{username}",
-  "email": "{email}",
-  "avatar": "{avatar}"
+  "username": "${username}",
+  "email": "${email}",
+  "avatar": "${avatar}"
 }
 ```
