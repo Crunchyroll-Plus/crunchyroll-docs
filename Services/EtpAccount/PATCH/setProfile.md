@@ -4,7 +4,7 @@ setProfile
 #### Change profile settings.
 
 ```http
-PATCH /accounts/v1/me/profile
+PATCH /accounts/v1/me/multiprofile/{profile_uuid}
 
 # Request Headers
 Content-Type: application/json
