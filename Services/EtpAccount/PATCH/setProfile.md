@@ -26,6 +26,11 @@ Authorization: Bearer ${TOKEN}
     "preferred_communication_language": "${preferred_communication_language}"
 }
 
+## Set username
+{
+    "username": "${username}"
+}
+
 ## Set Avatar
 {
     "avatar": "${avatar}"
