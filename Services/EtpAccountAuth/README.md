@@ -6,3 +6,4 @@ EtpAccountAuth
         * [getJwt](./POST/getJwt.md)
         * [requestOptCode](./POST/requestOptCode.md)
         * [revokeRefreshToken](./POST/revokeRefreshToken.md)
+        * [switchProfile](./POST/switchProfile.md)
