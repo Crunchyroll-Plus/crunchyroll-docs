@@ -4,10 +4,10 @@ Crunchyroll Docs
 ### Notes
 
 * This bare-boned project is an attempt to document Crunchyroll's API.
-* All of the endpoints come from the Crunchyroll APK version "3.41.1"
+* All of the endpoints come from the Crunchyroll APK version "3.47.0"
 * If you know of an endpoint that isn't documented here or if an endpoint is documented wrong please create a pull request pertaining to the endpoint.
 * Most of the endpoints haven't been tested.
-* User-Agent: `Crunchyroll/3.41.1 Android/1.0 okhttp/4.11.0`
+* User-Agent: `Crunchyroll/3.47.0 Android/1.0 okhttp/4.11.0`
 
 
 Services
