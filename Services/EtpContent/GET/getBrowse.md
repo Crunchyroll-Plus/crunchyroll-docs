@@ -20,5 +20,3 @@ Authorization: Bearer ${TOKEN}
 | seasonal_tag | `string` | The seasonal tag to search |
 | is_dubbed | `boolean` | Whether the item is dubbed |
 | is_subbed | `boolean` | Whether the item is subbed |
-| is_mature | `boolean` | Whether the item is mature |
-| is_simulcast | `boolean` | Whether the item is simulcast |
