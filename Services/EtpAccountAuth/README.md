@@ -3,7 +3,10 @@ EtpAccountAuth
 * Base URL: `https://www.crunchyroll.com/`
 * Endpoints: 
     * **POST**
-        * [getJwt](./POST/getJwt.md)
-        * [requestOptCode](./POST/requestOptCode.md)
+        * [getAnonymousUserJwt](./POST/getAnonymousUserJwt.md)
+        * [refreshUserJwt](./POST/refreshUserJwt.md)
+        * [signIn](./POST/signIn.md)
+        * [signInOtp](./POST/signInOtp.md)
+        * [requestOtpCode](./POST/requestOtpCode.md)
         * [revokeRefreshToken](./POST/revokeRefreshToken.md)
         * [switchProfile](./POST/switchProfile.md)
