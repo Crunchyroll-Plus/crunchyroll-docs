@@ -6,9 +6,9 @@ createAccount
 ```http
 POST /accounts/v2
 
-# Request Headers ()
+# Request Headers
 Content-Type: application/json
-Authorization: Basic ${KEY}
+Authorization: Bearer ${TOKEN}
 
 # Request Body
 {
