@@ -7,7 +7,7 @@ signIn
 POST /auth/v1/token
 
 # Request Headers
-Authorization: Basic ${KEY}
+Authorization: Basic bm9haWhkZXZtXzZpeWcwYThsMHE6
 ETP-Anonymous-ID: ${ETP_ID}
 
 # Request Body
