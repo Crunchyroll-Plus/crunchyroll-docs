@@ -1,18 +1,18 @@
-requestOptCode
+requestOtpCode
 ===========
 
-#### Request an opt code.
+#### Request an otp code.
 
 ```http
 POST /accounts/v1/phone/verify
 
 # Request Headers
 Content-Type: application/json
-# I'm quite unsure which one to use so try Basic then Bearer
-Authorization: Basic ${CLIENT_ID}
+Authorization: Basic bm9haWhkZXZtXzZpeWcwYThsMHE6
 
 # Request Body
 {
-  "phone_number": "${phone_number}"
+  "phone_number": "${phone_number}",
+  "channel": "${sms|whatsapp}"
 }
 ```
