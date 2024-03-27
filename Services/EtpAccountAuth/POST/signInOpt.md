@@ -1,7 +1,7 @@
-signInOpt
+signInOtp
 ===========
 
-#### Sign in with an opt code
+#### Sign in with an otp code
 
 ```http
 POST /auth/v1/token
