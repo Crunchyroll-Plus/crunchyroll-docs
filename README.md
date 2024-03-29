@@ -47,7 +47,7 @@
 * Most endpoints haven't been tested.
 * The user-agent header for android is `Crunchyroll/{apk_version} Android/4.4.4 okhttp/4.12.0`.
 * I might've missed a few endpoints or incorrectly documented them, so if you know of one that isn't here or see one that's missing something please create a PR.
-* `https://wwww.crunchyroll.com` and `https://beta-api.crunchyroll.com` should be treated as the same domain.
+* `https://wwww.crunchyroll.com` and `https://beta-api.crunchyroll.com` should be treated as the same url.
 
 
 
