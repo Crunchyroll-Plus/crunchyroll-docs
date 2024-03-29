@@ -1,47 +1,66 @@
-Crunchyroll Docs
-============
+<div align="center">
+<h1>Crunchyroll Documentation</h1>
 
-### Notes
+<p>
+<strong>An unoffical documentation of <a href="https://www.crunchyroll.com/">Crunchyroll</a>'s API derived from the android's APK.<strong>
+</p>
 
-* This bare-boned project is an attempt to document Crunchyroll's API.
-* All of the endpoints come from the Crunchyroll APK version "3.52.4"
-* If you know of an endpoint that isn't documented here or if an endpoint is documented wrong please create a pull request pertaining to the endpoint.
-* Most of the endpoints haven't been tested.
-* User-Agent: `Crunchyroll/3.52.4 Android/1.0 okhttp/4.12.0`
+<img src="https://img.shields.io/badge/APK_Version-3.52.4-green?logo=android" alt="APK Version">
+<img alt="GitHub License" src="https://img.shields.io/github/license/Crunchyroll-Plus/crunchyroll-docs">
+<img alt="GitHub Issues" src="https://img.shields.io/github/issues-pr/Crunchyroll-Plus/crunchyroll-docs">
+
+</div>
+
+---
+
+<div align="center">
+<h2>Services</h2>
+<br>
+
+| Name | Description |
+| ----- | ----- |
+| ConfigDelta | N/A |
+| [DigitalAsset](/Services/DigitalAsset/README.md) | Service for getting assets like avatars |
+| [Download](/Services/Download/README.md) | Service for downloading videos |
+| [EtpAccount](/Services/EtpAccount/README.md) | Service for managing your account |
+| [EtpAccountAuth](/Services/EtpAccountAuth/README.md) | Service for authenticating yourself |
+| [EtpContent](/Services/EtpContent/README.md) | Service for mananging content |
+| [EtpContentReviews](/Services/EtpContentReviews/README.md) | Service for managing reviews for content |
+| [EtpIndex](/Services/EtpIndex/README.md) | N/A |
+| [ExternalPartners](/Services/ExternalPartners/README.md) | Service for external partners |
+| [FunAccountAuth](/Services/FunAccountAuth/README.md) | Service for authenticating yourself with a funimation account. |
+| [FunMigration](/Services/FunMigration/README.md) | Service for migrating your Funimation account to Crunchyroll. |
+| MediaLanguage | N/A |
+| [Play](/Services/Play/README.md) | Service for playing a video. |
+| [SkipEvents](/Services/SkipEvents/README.md) | Service for getting skip events for a video |
+| [SubscriptionProcessor](/Services/SubscriptionProcessor/README.md) | Service for getting information on your subscriptions. |
+| [Talkbox](/Services/Talkbox/README.md) | Service for getting comments. |
+| [ThirdPartyOauth](/Services/ThirdPartyOauth/README.md) | Service for editing third party apps. |
+| Translation | Service for translations |
+</div>
 
 
-Services
-============
+<h2 align="center">Notes</h2>
 
-| Name | Description | Domain |
-| ----- | ----- | ----- |
-| ConfigDelta | N/A | CR |
-| [DigitalAsset](/Services/DigitalAsset/README.md) | Service for getting assets like avatars | CR |
-| [Download](/Services/Download/README.md) | Service for downloading videos | CPS |
-| [EtpAccount](/Services/EtpAccount/README.md) | Service for managing your account | CR |
-| [EtpAccountAuth](/Services/EtpAccountAuth/README.md) | Service for authenticating yourself | CR |
-| [EtpContent](/Services/EtpContent/README.md) | Service for mananging content | CR |
-| [EtpContentReviews](/Services/EtpContentReviews/README.md) | Service for managing reviews for content | CR |
-| [EtpIndex](/Services/EtpIndex/README.md) | N/A | CR |
-| [ExternalPartners](/Services/ExternalPartners/README.md) | Service for external partners | CR |
-| [FunAccountAuth](/Services/FunAccountAuth/README.md) | Service for authenticating yourself with a funimation account. | CR |
-| [FunMigration](/Services/FunMigration/README.md) | Service for migrating your Funimation account to Crunchyroll. | CR |
-| MediaLanguage | N/A | N/A |
-| [Play](/Services/Play/README.md) | Service for playing a video. | CPS |
-| [SkipEvents](/Services/SkipEvents/README.md) | Service for getting skip events for a video | Static |
-| [SubscriptionProcessor](/Services/SubscriptionProcessor/README.md) | Service for getting information on your subscriptions. | CR |
-| [Talkbox](/Services/Talkbox/README.md) | Service for getting comments. | CR |
-| [ThirdPartyOauth](/Services/ThirdPartyOauth/README.md) | Service for editing third party apps. | CR |
-| Translation | Service for translations | Static |
+<br>
 
-Base Domains
-============
+* Most endpoints haven't been tested.
+* The user-agent header for android is `Crunchyroll/{apk_version} Android/4.4.4 okhttp/4.12.0`.
+* I might've missed a few endpoints or incorrectly documented them, so if you know of one that isn't here or see one that's missing something please create a PR.
+* `https://wwww.crunchyroll.com` and `https://beta-api.crunchyroll.com` should be treated as the same domain.
 
-CR and Beta should be used the same way. 
 
-* CR: `https://wwww.crunchyroll.com`
-* Beta: `https://beta-api.crunchyroll.com`
-* Static: `https://static.crunchyroll.com`
-* PL: `https://pl.crunchyroll.com`
-* EEC: `https://eec.crunchyroll.com`
-* CPS: `https://cr-play-service.prd.crunchyrollsvc.com`
+
+<h2 align="center">Credits</h2>
+
+<br>
+
+* [LinkOfHyrule](https://github.com/LinkofHyrule89), keeps me updated when a new APK version is released.
+* [Skylot](https://github.com/skylot/), without JADX this project would've been a hundred-fold harder if not impossible.
+
+<h2 align="center">TODO</h2>
+
+<br>
+
+* Create a tool to dump endpoints and the respective data needed.
+* A better format for documentation.
