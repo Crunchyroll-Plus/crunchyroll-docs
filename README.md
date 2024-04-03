@@ -5,13 +5,13 @@
 <strong>An unoffical documentation of <a href="https://www.crunchyroll.com/">Crunchyroll</a>'s API derived from the android's APK.<strong>
 </p>
 
-<img src="https://img.shields.io/badge/APK_Version-3.52.4-green?logo=android" alt="APK Version">
+<img src="https://img.shields.io/badge/APK_version-3.53.0-green?logo=android" alt="APK Version">
 <img alt="GitHub License" src="https://img.shields.io/github/license/Crunchyroll-Plus/crunchyroll-docs">
 <img alt="GitHub Issues" src="https://img.shields.io/github/issues-pr/Crunchyroll-Plus/crunchyroll-docs">
 
 </div>
 
----
+<br><br>
 
 <div align="center">
 <h2>Services</h2>
