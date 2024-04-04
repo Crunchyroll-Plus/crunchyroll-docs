@@ -11,23 +11,17 @@ Content-Type: application/json
 Authorization: Bearer ${TOKEN}
 
 # Request Body
-## Set username
 {
-    "username": "${username}"
-}
-
-## Set Avatar
-{
-    "avatar": "${avatar}"
-}
-
-## Set extended maturity rating
-{
-    "extended_maturity_rating": "${extended_maturity_rating}"
-}
-
-## Set maturity rating
-{
-    "maturity_rating": "${maturity_rating}"
+  "username": "${username}",
+  "profile_name": "${profile_name}",
+  "email": "${email}",
+  "avatar": "${avatar}",
+  "wallpaper": "${wallpaper}",
+  "age_consent": "${true|false}",
+  "password": "${password}",
+  "verification_code": "${verification_code}"
+  "maturity_rating": "${maturity_rating}",
+  "preferred_content_audio_language": "${preferred_content_audio_language}",
+  "preferred_content_subtitle_language": "${preferred_content_subtitle_language}"
 }
 ```
