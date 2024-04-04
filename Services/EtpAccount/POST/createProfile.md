@@ -17,6 +17,12 @@ Content-Type: application/json
   "email": "${email}",
   "avatar": "${avatar}",
   "wallpaper": "${wallpaper}",
-  "age_consent": "${true|false}"
+  "age_consent": "${true|false}",
+  "password": "${password}",
+  "verification_code": "${verification_code}"
+  "maturity_rating": "${maturity_rating}",
+  "extended_maturity_rating": ${extended_maturity_rating},
+  "preferred_content_audio_language": "${preferred_content_audio_language}",
+  "preferred_content_subtitle_language": "${preferred_content_subtitle_language}"
 }
 ```
