@@ -12,5 +12,5 @@ ETP-Anonymous-ID: ${ETP_ID}
 
 # Request Body
 
-"grant_type=refresh_token_profile_id&refresh_token=${refresh_token}&scope=offline_access"
+"grant_type=refresh_token_profile_id&refresh_token=${refresh_token}&profile_id=${profile_id}&scope=offline_access"
 ```
