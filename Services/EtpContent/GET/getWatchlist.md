@@ -4,7 +4,7 @@ getWatchlist
 #### Get items from your watchlist.
 
 ```http
-GET /content/v2/discover/${profile_id}/watchlist
+GET /content/v2/discover/${account_id}/watchlist
 
 # Request Headers
 Authorization: Bearer ${TOKEN}
