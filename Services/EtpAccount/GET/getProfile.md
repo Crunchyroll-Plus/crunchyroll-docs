@@ -1,10 +1,10 @@
 getProfile
 ===========
 
-#### Get profile information based off of the profile id.
+#### Get current profile information.
 
 ```http
-GET /accounts/v1/me/multiprofile/{profile_uuid}
+GET /accounts/v1/me/profile
 
 # Request Headers
 Authorization: Bearer ${TOKEN}
