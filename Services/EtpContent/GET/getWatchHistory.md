@@ -4,7 +4,7 @@ getWatchHistory
 #### Get items from your watch history.
 
 ```http
-GET "content/v2/${account_id}/watch-history"
+GET "content/v2/${profile_id}/watch-history"
 
 # Request Headers
 Authorization: Bearer ${TOKEN}
