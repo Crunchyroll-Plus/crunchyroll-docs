@@ -9,6 +9,7 @@ POST /auth/v1/token
 # Request Headers
 Authorization: Basic bm9haWhkZXZtXzZpeWcwYThsMHE6
 ETP-Anonymous-ID: ${ETP_ID}
+Content-Type: application/x-www-form-urlencoded
 
 # Request Body
 
