@@ -12,5 +12,5 @@ ETP-Anonymous-ID: ${ETP_ID}
 
 # Request Body
 
-"device_name=${deviceName}&device_id=${deviceId}&device_type=${deviceType}&grant_type=client_id"
+"grant_type=client_id"
 ```
