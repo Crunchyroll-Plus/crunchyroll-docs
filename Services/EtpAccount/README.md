@@ -5,6 +5,7 @@ EtpAccount
     * **GET**
         * [getAccount](./GET/getAccount.md)
         * [getProfile](./GET/getProfile.md)
+        * [getProfileById](./GET/getProfileById.md)
         * [getProfiles](./GET/getProfiles.md)
         * [getUsernames](./GET/getUsernames.md)
     * **POST**
