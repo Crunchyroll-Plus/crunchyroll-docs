@@ -14,7 +14,7 @@ EtpAccount
         * [createAccount](./POST/createAccount.md)
         * [createAccountWithPhone](./POST/createAccountWithPhone.md)
         * [requestChangeEmail](./POST/requestChangeEmail.md)
-        * [requestOptCode](./POST/requestOptCode.md)
+        * [requestOtpCode](./POST/requestOtpCode.md)
         * [resetPassword](./POST/resetPassword.md)
         * [sendVerificationEmail](./POST/sendVerificationEmail.md)
         * [setEmail](./POST/setEmail.md)
