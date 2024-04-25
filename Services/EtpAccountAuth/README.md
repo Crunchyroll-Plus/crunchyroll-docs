@@ -7,6 +7,5 @@ EtpAccountAuth
         * [refreshUserJwt](./POST/refreshUserJwt.md)
         * [signIn](./POST/signIn.md)
         * [signInOtp](./POST/signInOtp.md)
-        * [requestOtpCode](./POST/requestOtpCode.md)
         * [revokeRefreshToken](./POST/revokeRefreshToken.md)
         * [switchProfile](./POST/switchProfile.md)
