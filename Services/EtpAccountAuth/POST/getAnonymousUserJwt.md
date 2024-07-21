@@ -7,7 +7,7 @@ getAnonymousUserJwt
 POST /auth/v1/token
 
 # Request Headers
-Authorization: Basic bm9haWhkZXZtXzZpeWcwYThsMHE6
+Authorization: Basic eHVuaWh2ZWRidDNtYmlzdWhldnQ6MWtJUzVkeVR2akUwX3JxYUEzWWVBaDBiVVhVbXhXMTE=
 ETP-Anonymous-ID: ${ETP_ID}
 Content-Type: application/x-www-form-urlencoded
 

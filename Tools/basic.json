@@ -1,0 +1,17 @@
+{
+    "production": {
+        "token": "eHVuaWh2ZWRidDNtYmlzdWhldnQ6MWtJUzVkeVR2akUwX3JxYUEzWWVBaDBiVVhVbXhXMTE=",
+        "username": "xunihvedbt3mbisuhevt",
+        "password": "1kIS5dyTvjE0_rqaA3YeAh0bUXUmxW11"
+    },
+    "staging": {
+        "token": "YWc3amZnMms1Z2FidGtuZDF2Z3E6d0QzbzFwQ2FTWDVkVWtZSGhZaDV5WkI4VkN4N0RrRC0=",
+        "username": "ag7jfg2k5gabtknd1vgq",
+        "password": "wD3o1pCaSX5dUkYHhYh5yZB8VCx7DkD-"
+    },
+    "proto": {
+        "token": "cG41ZHhiaDA5anBheTc1cG5rd3I6MzRUUF9vVzZ6TWwzSVp4dlpNdlFlSC00ZVdSQ1pLSy0=",
+        "username": "pn5dxbh09jpay75pnkwr",
+        "password": "34TP_oW6zMl3IZxvZMvQeH-4eWRCZKK-"
+    }
+}
