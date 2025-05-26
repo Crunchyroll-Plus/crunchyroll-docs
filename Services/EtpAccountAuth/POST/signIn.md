@@ -1,6 +1,8 @@
 signIn
 ===========
 
+If you're having trouble finding a working Basic token, try the [dump_basic](../../../Tools/dump_basic.py) script.
+
 #### Sign in with an email and password
 
 ```http
