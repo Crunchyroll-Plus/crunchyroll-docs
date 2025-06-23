@@ -48,14 +48,13 @@
 * The user-agent header for android is `Crunchyroll/{apk_version} Android/{android_os_version} okhttp/{latest_okhttp_4.x_version}`.
 * I might've missed a few endpoints or incorrectly documented them, so if you know of one that isn't here or see one that's missing something please create a PR.
 * `https://wwww.crunchyroll.com` and `https://beta-api.crunchyroll.com` should be treated as the same url.
-
+* Need help? Join the <a href="https://discord.gg/9YV8rH2ntz">discord server</a> and open a ticket I'll see what I can do to help.
 
 
 <h2 align="center">Credits</h2>
 
 <br>
 
-* [LinkOfHyrule](https://github.com/LinkofHyrule89), keeps me updated when a new APK version is released.
 * [Skylot](https://github.com/skylot/), without JADX this project would've been a hundred-fold harder if not impossible.
 
 <h2 align="center">TODO</h2>
