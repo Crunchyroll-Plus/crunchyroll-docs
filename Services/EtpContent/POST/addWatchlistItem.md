@@ -4,7 +4,7 @@ addWatchlistItem
 #### Add a series to your watchlist.
 
 ```http
-POST /content/v2/${account_uuid}/watchlist
+POST /content/v2/discover/${account_uuid}/watchlist
 
 # Request Headers
 Content-Type: application/json
