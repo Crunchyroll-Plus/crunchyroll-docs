@@ -9,3 +9,7 @@ PATCH /v1/token/${contentId}/${videoToken}/activate
 # Request Headers
 Authorization: Bearer ${TOKEN}
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| playhead | `long` | Assuming it's the current time you're watching video at. |

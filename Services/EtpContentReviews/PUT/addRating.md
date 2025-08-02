@@ -20,3 +20,21 @@ Authorization: Bearer ${TOKEN}
   "rating": "${1s|2s|3s|4s|5s}" 
 }
 ```
+
+```http
+PUT /content-reviews/v3/user/${account_uuid}/rating/${${episode|series|movie_listing|season|musicVideo|musicConcert|game}}/${content_id}"
+
+# Request Headers
+Content-Type: application/json
+Authorization: Bearer ${TOKEN}
+
+# Request Body
+## Rate episode
+{
+  "rating": "${up|down}",
+}
+## Rate others
+{
+  "rating": "${1s|2s|3s|4s|5s}" 
+}
+```

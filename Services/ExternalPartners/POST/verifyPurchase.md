@@ -8,6 +8,7 @@ POST /partners/v2/google-play/verify-purchase
 
 # Request Headers
 Content-Type: application/json
+read_timeout: 30000
 Authorization: Bearer ${TOKEN}
 
 # Request Body

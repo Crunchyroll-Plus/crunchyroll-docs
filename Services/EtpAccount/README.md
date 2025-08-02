@@ -9,6 +9,7 @@ EtpAccount
         * [getProfiles](./GET/getProfiles.md)
         * [getUsernames](./GET/getUsernames.md)
     * **POST**
+        * [acceptTos](./POST/acceptTos.md)
         * [authDevice](./POST/authDevice.md)
         * [createProfile](./POST/createProfile.md)
         * [createAccount](./POST/createAccount.md)
@@ -18,6 +19,7 @@ EtpAccount
         * [resetPassword](./POST/resetPassword.md)
         * [sendVerificationEmail](./POST/sendVerificationEmail.md)
         * [setEmail](./POST/setEmail.md)
+        * [setPassword](./POST/setPassword.md)
         * [deactivateDevice](./POST/deactivateDevice.md)
     * **PATCH**
         * [setCredentials](./PATCH/setCredentials.md)
@@ -25,3 +27,6 @@ EtpAccount
         * [updateMarketingNotificationSettings](./PATCH/updateMarketingNotificationSettings.md)
    * **DELETE**
         * [deleteProfile](./DELETE/deleteProfile.md)
+        * [deletePhone](./DELETE/deletePhone.md)
+   * **PUT**
+        * [setPhone](./PUT/setPhone.md)
