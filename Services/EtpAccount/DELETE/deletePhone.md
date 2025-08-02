@@ -1,10 +1,10 @@
-deleteProfile
+deletePhone
 ===========
 
-#### Delete profile by the id.
+#### Remove phone connection
 
 ```http
-DELETE /accounts/v1/me/multiprofile/{profile_uuid}
+DELETE /accounts/v1/phone
 
 # Request Headers
 Content-Type: application/json
