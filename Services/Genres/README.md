@@ -1,6 +1,6 @@
 Genres
 ===========
-* Base URL: `https://crunchyroll.com/`
+* Base URL: `https://static.crunchyroll.com/`
 * Endpoints: 
     * **GET**
         * [getGenres](./GET/getGenres.md)
