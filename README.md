@@ -37,6 +37,8 @@
 | [Talkbox](/Services/Talkbox/README.md) | Service for getting comments. |
 | [ThirdPartyOauth](/Services/ThirdPartyOauth/README.md) | Service for editing third party apps. |
 | Translation | Service for translations |
+| [Recommendation](/Services/Recommendations/README.md) | Service for getting recommendations |
+| [Genres](/Services/Genres/README.md) | Service for getting genres. |
 </div>
 
 
