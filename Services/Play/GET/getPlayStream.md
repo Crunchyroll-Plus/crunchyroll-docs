@@ -13,4 +13,5 @@ x-cr-stream-limits: ${true|false}
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| queue | `integer` | queue=0 adds a instance to the playback sessions. queue=1 adds a instance to the queue sessions. Both are limited according to your subscription. |
+| queue | `boolean` | queue=0 adds a instance to the playback sessions. queue=1 adds a instance to the queue sessions. Both are limited according to your subscription. |
+
