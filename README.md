@@ -5,7 +5,6 @@
 <strong>An unoffical documentation of <a href="https://www.crunchyroll.com/">Crunchyroll</a>'s API derived from the Android APK.<strong>
 </p>
 
-<img alt="GitHub License" src="https://img.shields.io/github/license/Crunchyroll-Plus/crunchyroll-docs">
 <img alt="GitHub Issues" src="https://img.shields.io/github/issues-pr/Crunchyroll-Plus/crunchyroll-docs">
 
 </div>
@@ -64,4 +63,5 @@
 
 * Create a tool to dump endpoints and the respective data needed.
 * A better format for documentation.
+
 
