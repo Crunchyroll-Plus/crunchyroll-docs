@@ -1,6 +1,6 @@
 Play
 ===========
-* Base URL: `https://cr-play-service.prd.crunchyrollsvc.com`
+* Base URL: `https://cruchyroll.com`
 * Endpoints: 
     * **GET**
         * [getPlayStream](./GET/getPlayStream.md)

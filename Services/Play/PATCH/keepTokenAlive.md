@@ -1,10 +1,10 @@
 keepTokenAlive
 ===========
 
-#### Keeps the token alive, I know the url is quite misleading but this was the name I found in the APK.
+#### Keeps the token alive.
 
 ```http
-PATCH /v1/token/${contentId}/${videoToken}/activate
+PATCH /playback/v1/token/${contentId}/${videoToken}/keepAlive
 
 # Request Headers
 Authorization: Bearer ${TOKEN}
