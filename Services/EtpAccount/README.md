@@ -21,12 +21,16 @@ EtpAccount
         * [setEmail](./POST/setEmail.md)
         * [setPassword](./POST/setPassword.md)
         * [deactivateDevice](./POST/deactivateDevice.md)
+        * [validateProvidedCredentials](./POST/validateProvidedCredentials.md)
     * **PATCH**
         * [setCredentials](./PATCH/setCredentials.md)
         * [setProfile](./PATCH/setProfile.md)
         * [updateMarketingNotificationSettings](./PATCH/updateMarketingNotificationSettings.md)
+        * [updateProfileWithValidation](./PATCH/updateProfileWithValidation.md)
    * **DELETE**
         * [deleteProfile](./DELETE/deleteProfile.md)
         * [deletePhone](./DELETE/deletePhone.md)
+        * [removeProfilePin](./DELETE/removeProfilePin.md)
    * **PUT**
         * [setPhone](./PUT/setPhone.md)
+        * [setProfilePin](./POST/setProfilePin.md)
