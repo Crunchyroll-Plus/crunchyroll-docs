@@ -17,7 +17,6 @@
 
 | Name | Description |
 | ----- | ----- |
-| ConfigDelta | N/A |
 | [DigitalAsset](/Services/DigitalAsset/README.md) | Service for getting assets like avatars |
 | [Download](/Services/Download/README.md) | Service for downloading videos |
 | [EtpAccount](/Services/EtpAccount/README.md) | Service for managing your account |
