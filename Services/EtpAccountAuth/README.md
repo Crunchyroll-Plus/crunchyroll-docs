@@ -9,3 +9,4 @@ EtpAccountAuth
         * [signInOtp](./POST/signInOtp.md)
         * [revokeRefreshToken](./POST/revokeRefreshToken.md)
         * [switchProfile](./POST/switchProfile.md)
+        * [signInWithCode](./POST/signInWithCode.md)
