@@ -2,6 +2,7 @@ switchProfile
 ===========
 
 #### Switch profiles.
+- See [validateProvidedCredentials](../POST//validateProvidedCredentials.md) for the CrPassToken header.
 
 ```http
 POST /auth/v1/token
@@ -9,6 +10,7 @@ POST /auth/v1/token
 # Request Headers
 Authorization: Basic eHVuaWh2ZWRidDNtYmlzdWhldnQ6MWtJUzVkeVR2akUwX3JxYUEzWWVBaDBiVVhVbXhXMTE=
 ETP-Anonymous-ID: ${ETP_ID}
+CrPassToken: ${PASS_TOKEN} # Required if the account has a pin
 
 # Request Body
 
