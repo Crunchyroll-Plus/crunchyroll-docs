@@ -4,7 +4,7 @@ getDownloadToken
 #### Get download token.
 
 ```http
-GET /v1/${content_id}/android/phone/download
+GET /playback/v2/{contentId}/android/phone/download
 
 # Request Headers
 Authorization: Bearer ${TOKEN}

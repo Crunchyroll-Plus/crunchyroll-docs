@@ -1,6 +1,6 @@
 Download
 ===========
-* Base URL: `https://cr-play-service.prd.crunchyrollsvc.com/`
+* Base URL: `https://crunchyroll.com/`
 * Endpoints: 
     * **GET**
         * [getDownloadToken](./GET/getDownloadToken.md)
