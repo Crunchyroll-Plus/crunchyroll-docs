@@ -25,7 +25,6 @@ EtpContent
         * [getSeason](./GET/getSeason.md)
         * [getSeasonEpisodes](./GET/getSeasonEpisodes.md)
         * [getSeasonList](./GET/getSeasonList.md)
-        * [getSeasons](./GET/getSeasons.md)
         * [getSeries](./GET/getSeries.md)
         * [getSimilar](./GET/getSimilar.md)
         * [getSeasons](./GET/getSeasons.md)
@@ -33,6 +32,10 @@ EtpContent
         * [getWatchHistory](./GET/getWatchHistory.md)
         * [getWatchlist](./GET/getWatchlist.md)
         * [search](./GET/search.md)
+        * [getRecommendations](./GET/getRecommendations.md)
+        * [getWatchlistItems](./GET/getWatchlistItems.md)
+        * [getContentUpNext](./GET/getContentUpNext.md)
+        * [getNextEpisodePanel](./GET/getNextEpisodePanel.md)
     * **POST**
         * [addItemToCustomList](./POST/addItemToCustomList.md)
         * [addWatchlistItem](./POST/addWatchlistItem.md)
@@ -48,3 +51,5 @@ EtpContent
         * [deleteWatchlistItem](./DELETE/deleteWatchlist.md)
     * **PUT**
         * [changeCustomListItemPosition](./PUT/changeCustomListItemPosition.md)
+    * **PATCH**
+        * [updateCustomList](./PATCH/updateCustomList.md)

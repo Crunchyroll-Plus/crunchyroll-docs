@@ -1,7 +1,7 @@
-addWatchlistItem
+updateWatchlistItemFavoriteStatus
 ===========
 
-#### Add a series to your watchlist.
+#### Updates a watch list item's favorite status.
 
 ```http
 PATCH /content/v2/${account_uuid}/watchlist/${content_id}
@@ -12,6 +12,6 @@ Authorization: Bearer ${TOKEN}
 
 # Request Body
 {
-  "is_favorite": "${is_favorite}"
+  "is_favorite": ${true | false}
 }
 ```
