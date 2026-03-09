@@ -28,14 +28,12 @@
 | [ExternalPartners](/Services/ExternalPartners/README.md) | Service for external partners |
 | [FunAccountAuth](/Services/FunAccountAuth/README.md) | Service for authenticating yourself with a funimation account. |
 | [FunMigration](/Services/FunMigration/README.md) | Service for migrating your Funimation account to Crunchyroll. |
-| MediaLanguage | N/A |
 | [Play](/Services/Play/README.md) | Service for playing a video. |
 | [SkipEvents](/Services/SkipEvents/README.md) | Service for getting skip events for a video |
 | [SubscriptionProcessor](/Services/SubscriptionProcessor/README.md) | Service for getting information on your subscriptions. |
 | [AlternativeBilling](/Services/AlternativeBilling/README.md) | Service for razorpay |
 | [Talkbox](/Services/Talkbox/README.md) | Service for getting comments. |
 | [ThirdPartyOauth](/Services/ThirdPartyOauth/README.md) | Service for editing third party apps. |
-| Translation | Service for translations |
 | [Recommendation](/Services/Recommendations/README.md) | Service for getting recommendations |
 | [Genres](/Services/Genres/README.md) | Service for getting genres. |
 </div>
@@ -46,7 +44,7 @@
 <br>
 
 * Most endpoints haven't been tested.
-* The user-agent header for android is `Crunchyroll/{apk_version} Android/{android_os_version} okhttp/{latest_okhttp_4.x_version}`.
+* The user-agent header for android is `Crunchyroll/{apk_version} Android/{android_os_version} okhttp/{latest_okhttp_version}`.
 * I might've missed a few endpoints or incorrectly documented them, so if you know of one that isn't here or see one that's missing something please create a PR.
 * `https://wwww.crunchyroll.com` and `https://beta-api.crunchyroll.com` should be treated as the same url.
 * Need help? Join the <a href="https://discord.gg/9YV8rH2ntz">discord server</a> and open a ticket, and I'll see what I can do to help.
