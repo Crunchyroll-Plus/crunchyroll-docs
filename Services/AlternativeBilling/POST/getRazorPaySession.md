@@ -4,7 +4,7 @@ getRazorPaySession
 #### Gets the razor pay session
 
 ```http
-POST /accounts/v1/device
+POST /v1/razorpaySession
 
 # Request Headers
 Content-Type: application/json
