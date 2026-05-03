@@ -33,4 +33,4 @@ EtpAccount
         * [removeProfilePin](./DELETE/removeProfilePin.md)
    * **PUT**
         * [setPhone](./PUT/setPhone.md)
-        * [setProfilePin](./POST/setProfilePin.md)
+        * [setProfilePin](./PUT/setProfilePin.md)
