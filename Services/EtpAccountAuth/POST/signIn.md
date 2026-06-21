@@ -1,7 +1,7 @@
 signIn
 ===========
 
-If you're having trouble finding a working Basic token, try the [dump_basic](../../../Tools/dump_basic.py) script.
+If you're having trouble finding a working Basic token, check out this [bash script](https://github.com/crunchy-labs/crunchyroll-scripts/blob/master/apk-credentials-extract.sh) by [bytedream](https://github.com/bytedream) or [nodejs package](https://github.com/vitalygashkov/crextractor) by [vitalygashkov](https://github.com/vitalygashkov).
 
 #### Sign in with an email and password
 
